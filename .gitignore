@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Configurações do sistema/IDE
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Testes e build
+.coverage
+build/
+dist/
+.eggs/
+*.egg-info/
